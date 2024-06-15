@@ -1,0 +1,6 @@
+@myApi_HostAddress = http://localhost:5118
+
+GET {{myApi_HostAddress}}/api/forecast/Parral/4
+Accept: application/json
+
+###
